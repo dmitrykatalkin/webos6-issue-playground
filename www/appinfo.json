@@ -1,0 +1,15 @@
+{
+    "vendor": "CheckedUp",
+    "supportedOrientations":[
+        "Landscape"
+    ],
+    "icon": "icon.png",
+    "useVideoTexture":true,
+    "main": "index.html",
+    "id": "com.lg.app.signage.dev",
+    "inspectable":true,
+    "title": "Webos 6.0 Issue Playground",
+    "type": "web",
+    "version": "0.0.1",
+    "uiRevision":2
+}

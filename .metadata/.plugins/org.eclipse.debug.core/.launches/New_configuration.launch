@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.webos.ide.launcher.ui.enyoLaunchConfigurationType">
+<stringAttribute key="Application" value="www"/>
+<stringAttribute key="DebugPackageType" value="non-minify"/>
+<stringAttribute key="RunPackageType" value="minify"/>
+<listAttribute key="SelectedSerProjects"/>
+<booleanAttribute key="ServiceRequired" value="false"/>
+<stringAttribute key="Target" value="emulator"/>
+<stringAttribute key="org.eclipse.debug.ui.target_debug_perspective" value="org.eclipse.debug.ui.DebugPerspective"/>
+<stringAttribute key="org.eclipse.debug.ui.target_run_perspective" value="com.webos.ide.perspective.id"/>
+</launchConfiguration>
